@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+Started with a background in design and obtained my master’s degree in Information Technology, I enjoy being challenged and engaged in projects that require me to actively seek out new technologies and stay up-to-date on industry trends and advancements. I’m familiar with html/css, React.js, Vue.js for front end development and Node.js, Go, Django for the backend. I’m also familiar with mongoDB, SQL for database management and Mocha, Chai for unit/integration test etc. 
 
-Started with a background in design and obtaining a master’s degree in Information Technology, I enjoy being challenged and engaging with projects that require me to actively seek out new technologies and stay up-to-date on industry trends and advancements. With a full-stack development skillset, I aim to utilise technology to solve people’s problems while providing a simple and premium user experience.
 
