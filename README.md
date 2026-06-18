@@ -3,6 +3,5 @@
 - 🌱 I’m currently exploring Fintech + Artificial Intelligence
 - 📫 How to reach me tech@jovai.xyz
 
-Started with a background in design and obtained my master’s degree in Information Technology, I enjoy being challenged and engaged in projects that require me to actively seek out new technologies and stay up-to-date on industry trends and advancements. I’m familiar with html/css, React.js, Vue.js for front end development and Node.js, Go, Django for the backend. I’m also familiar with mongoDB, SQL for database management and Mocha, Chai for unit/integration test. I enjoy solving users, business and technical problems while providing a simple and premium user experience.
-
+Started with a background in design and obtained my master’s degree in Information Technology, I enjoy being challenged and engaged in projects that require me to actively seek out new technologies and stay up-to-date on industry trends and advancements. I work across the full double diamond — from compliance research and user interviews through to shipping high-fidelity prototypes into production. In parallel, I’m building AI-native design tools, including a Figma plugin and a Claude Code + MCP design agent, to automate workflows and improve efficiency for product, design, and engineering teams.
 
